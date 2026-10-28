@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+# No subir imágenes médicas al repositorio
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.webp
+*.heic
+*.dcm
